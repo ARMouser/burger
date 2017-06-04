@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Eat burgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARMouser/burger.git"
+  },
+  "author": "ARM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARMouser/burger/issues"
+  },
+  "homepage": "https://github.com/ARMouser/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "method-override": "^2.3.9",
+    "mysql": "^2.13.0"
+  }
+}
